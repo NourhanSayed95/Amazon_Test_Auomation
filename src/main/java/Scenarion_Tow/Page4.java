@@ -1,4 +1,4 @@
-package org.example;
+package Scenarion_Tow;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
